@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetL298_1 Pin=L298N-1
+Removed Pin From Net: NetName=NetL298_2 Pin=L298N-2
+Removed Pin From Net: NetName=NetL298_3 Pin=L298N-3
+Removed Pin From Net: NetName=NetL298_5 Pin=L298N-5
+Removed Pin From Net: NetName=NetL298_6 Pin=L298N-6
+Removed Pin From Net: NetName=NetL298_7 Pin=L298N-7
+Removed Pin From Net: NetName=NetL298_8 Pin=L298N-8
+Removed Member From Class: ClassName=PCB_trainning Member=L298N
+Added Component: Designator=PinL298(header7-male)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetL298_1 Pin=PinL298-1
+Added Pin To Net: NetName=NetL298_2 Pin=PinL298-2
+Added Pin To Net: NetName=NetL298_3 Pin=PinL298-3
+Added Pin To Net: NetName=NetL298_5 Pin=PinL298-4
+Added Pin To Net: NetName=NetL298_6 Pin=PinL298-5
+Added Pin To Net: NetName=NetL298_7 Pin=PinL298-6
+Added Pin To Net: NetName=NetL298_8 Pin=PinL298-7
+Added Member To Class: ClassName=PCB_trainning Member=Component PinL298 header 7
+Added Room: Name=PCB_trainning

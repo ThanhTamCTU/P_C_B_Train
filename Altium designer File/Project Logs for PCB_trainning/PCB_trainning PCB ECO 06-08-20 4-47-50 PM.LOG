@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetB1_1 Pin=btt-mcu bus-1
+Removed Pin From Net: NetName=NetB2_1 Pin=btt-mcu bus-2
+Removed Pin From Net: NetName=NetB3_1 Pin=btt-mcu bus-3
+Removed Pin From Net: NetName=NetB4_1 Pin=btt-mcu bus-4
+Removed Member From Class: ClassName=PCB_trainning Member=btt-mcu bus
+Added Component: Designator=btt(header 5- male)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetB1_1 Pin=btt-1
+Added Pin To Net: NetName=NetB2_1 Pin=btt-2
+Added Pin To Net: NetName=NetB3_1 Pin=btt-3
+Added Pin To Net: NetName=NetB4_1 Pin=btt-4
+Added Pin To Net: NetName=GND Pin=btt-5
+Change Net Name : Old Net Name=GND New Net Name=NetB1_3
+Added Member To Class: ClassName=PCB_trainning Member=Component btt header 5
+Added Room: Name=PCB_trainning

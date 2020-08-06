@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P_RTC_U Old Footprint=HEADER 5- MALE New Footprint=header6-male
+Added Pin To Net: NetName=NetP_RTC_U_6 Pin=P_RTC_U-6
+Added Room: Name=PCB_trainning

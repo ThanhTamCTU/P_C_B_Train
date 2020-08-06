@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetL298_5 Pin=PinL298-4
+Removed Pin From Net: NetName=NetL298_6 Pin=PinL298-5
+Removed Pin From Net: NetName=NetL298_7 Pin=PinL298-6
+Added Pin To Net: NetName=NetL298_5 Pin=PinL298-5
+Added Pin To Net: NetName=NetL298_6 Pin=PinL298-6
+Added Pin To Net: NetName=NetL298_7 Pin=PinL298-7
+Added Pin To Net: NetName=NetL298_4 Pin=L298-4
+Added Pin To Net: NetName=NetL298_4 Pin=PinL298-4
+Added Net: Name=NetL298_4
+Added Room: Name=PCB_trainning

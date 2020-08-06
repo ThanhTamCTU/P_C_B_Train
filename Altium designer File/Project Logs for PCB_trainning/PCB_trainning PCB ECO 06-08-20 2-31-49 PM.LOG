@@ -1,0 +1,90 @@
+Added Component: Designator=12v1(header2-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=12v2(header2-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Out5v1(header2-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Out5v2(header2-male)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net12v_1 Pin=12v1-1
+Added Pin To Net: NetName=Net12v_2 Pin=12v1-2
+Added Pin To Net: NetName=Net12v_1 Pin=12v2-1
+Added Pin To Net: NetName=Net12v_2 Pin=12v2-2
+Added Pin To Net: NetName=Netloc_1 Pin=loc-1
+Added Pin To Net: NetName=Netloc_2 Pin=loc-2
+Added Pin To Net: NetName=NetConverter_4 Pin=Out5v1-1
+Added Pin To Net: NetName=NetConverter_3 Pin=Out5v1-2
+Added Pin To Net: NetName=NetConverter_4 Pin=Out5v2-1
+Added Pin To Net: NetName=NetConverter_3 Pin=Out5v2-2
+Added Pin To Net: NetName=Netpin2-7_1 Pin=pin2-7-1
+Added Pin To Net: NetName=Netpin2-7_2 Pin=pin2-7-2
+Added Pin To Net: NetName=Netpin2-7_3 Pin=pin2-7-3
+Added Pin To Net: NetName=Netpin2-7_4 Pin=pin2-7-4
+Added Pin To Net: NetName=Netpin2-7_5 Pin=pin2-7-5
+Added Pin To Net: NetName=Netpin2-7_6 Pin=pin2-7-6
+Added Pin To Net: NetName=Netpin8-13_1 Pin=pin8-13-1
+Added Pin To Net: NetName=Netpin8-13_2 Pin=pin8-13-2
+Added Pin To Net: NetName=Netpin8-13_3 Pin=pin8-13-3
+Added Pin To Net: NetName=Netpin8-13_4 Pin=pin8-13-4
+Added Pin To Net: NetName=Netpin8-13_5 Pin=pin8-13-5
+Added Pin To Net: NetName=Netpin8-13_6 Pin=pin8-13-6
+Added Pin To Net: NetName=NetPinA0-A5_1 Pin=PinA0-A5-1
+Added Pin To Net: NetName=NetPinA0-A5_2 Pin=PinA0-A5-2
+Added Pin To Net: NetName=NetPinA0-A5_3 Pin=PinA0-A5-3
+Added Pin To Net: NetName=NetPinA0-A5_4 Pin=PinA0-A5-4
+Added Pin To Net: NetName=NetPinA0-A5_5 Pin=PinA0-A5-5
+Added Pin To Net: NetName=NetPinA0-A5_6 Pin=PinA0-A5-6
+Added Pin To Net: NetName=NetPinVin-IOREF_1 Pin=PinVin-IOREF-1
+Added Pin To Net: NetName=NetPinVin-IOREF_2 Pin=PinVin-IOREF-2
+Added Pin To Net: NetName=NetPinVin-IOREF_3 Pin=PinVin-IOREF-3
+Added Pin To Net: NetName=NetPinVin-IOREF_4 Pin=PinVin-IOREF-4
+Added Pin To Net: NetName=NetPinVin-IOREF_5 Pin=PinVin-IOREF-5
+Added Pin To Net: NetName=NetPinVin-IOREF_6 Pin=PinVin-IOREF-6
+Added Pin To Net: NetName=Netloc_1 Pin=PinVin-IOREF-7
+Added Pin To Net: NetName=Netloc_2 Pin=PinVin-IOREF-8
+Added Pin To Net: NetName=NetConverter_3 Pin=SwitchArduino-1
+Added Pin To Net: NetName=NetConverter_4 Pin=SwitchArduino-2
+Added Pin To Net: NetName=Netloc_1 Pin=SwitchArduino-3
+Added Pin To Net: NetName=Netloc_2 Pin=SwitchArduino-4
+Added Pin To Net: NetName=Netpin2-7_1 Pin=U?-2
+Added Pin To Net: NetName=Netpin2-7_2 Pin=U?-3
+Added Pin To Net: NetName=Netpin2-7_3 Pin=U?-4
+Added Pin To Net: NetName=Netpin2-7_4 Pin=U?-5
+Added Pin To Net: NetName=Netpin2-7_5 Pin=U?-6
+Added Pin To Net: NetName=Netpin2-7_6 Pin=U?-7
+Added Pin To Net: NetName=Netpin8-13_1 Pin=U?-8
+Added Pin To Net: NetName=Netpin8-13_2 Pin=U?-9
+Added Pin To Net: NetName=Netpin8-13_3 Pin=U?-10
+Added Pin To Net: NetName=Netpin8-13_4 Pin=U?-11
+Added Pin To Net: NetName=Netpin8-13_5 Pin=U?-12
+Added Pin To Net: NetName=Netpin8-13_6 Pin=U?-13
+Added Pin To Net: NetName=Netloc_2 Pin=U?-18
+Added Pin To Net: NetName=Netloc_1 Pin=U?-19
+Added Pin To Net: NetName=NetPinVin-IOREF_6 Pin=U?-20
+Added Pin To Net: NetName=NetPinVin-IOREF_5 Pin=U?-21
+Added Pin To Net: NetName=NetPinVin-IOREF_4 Pin=U?-22
+Added Pin To Net: NetName=NetPinVin-IOREF_3 Pin=U?-23
+Added Pin To Net: NetName=NetPinVin-IOREF_2 Pin=U?-24
+Added Pin To Net: NetName=NetPinVin-IOREF_1 Pin=U?-25
+Added Pin To Net: NetName=NetPinA0-A5_1 Pin=U?-A0
+Added Pin To Net: NetName=NetPinA0-A5_2 Pin=U?-A1
+Added Pin To Net: NetName=NetPinA0-A5_3 Pin=U?-A2
+Added Pin To Net: NetName=NetPinA0-A5_4 Pin=U?-A3
+Added Pin To Net: NetName=NetPinA0-A5_5 Pin=U?-A4
+Added Pin To Net: NetName=NetPinA0-A5_6 Pin=U?-A5
+Change Net Name : Old Net Name=Net12v_1 New Net Name=Net12v1_1
+Change Net Name : Old Net Name=Net12v_2 New Net Name=Net12v1_2
+Added Member To Class: ClassName=PCB_trainning Member=Component 12v1 Header 2
+Added Member To Class: ClassName=PCB_trainning Member=Component 12v2 Header 2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component Out5v1 Header 2
+Added Member To Class: ClassName=PCB_trainning Member=Component Out5v2 Header 2
+Added Member To Class: ClassName=PCB_trainning Member=Component Out5v Header 2
+Added Member To Class: ClassName=PCB_trainning Member=Component pin2-7 header 6
+Added Member To Class: ClassName=PCB_trainning Member=Component pin8-13 header 6
+Added Member To Class: ClassName=PCB_trainning Member=Component PinA0-A5 header 6
+Added Member To Class: ClassName=PCB_trainning Member=Component PinVin-IOREF Header 8
+Added Member To Class: ClassName=PCB_trainning Member=Component SwitchArduino 5#Bit_Switch_2
+Added Member To Class: ClassName=PCB_trainning Member=Component  module 8 LED HC595
+Added Member To Class: ClassName=PCB_trainning Member=Component U? ARDUINO UNO R3
+Added Room: Name=PCB_trainning
