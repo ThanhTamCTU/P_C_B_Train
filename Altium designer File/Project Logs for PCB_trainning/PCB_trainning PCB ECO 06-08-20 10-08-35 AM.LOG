@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL1_2 Pin=L2-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL1_2 Pin=L3-2
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL1_2 Pin=L4-2
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL1_2 Pin=L5-2
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetL1_2 Pin=L6-2
+Added Pin To Net: NetName=NetL7_1 Pin=L7-1
+Added Pin To Net: NetName=NetL1_2 Pin=L7-2
+Added Pin To Net: NetName=NetL8_1 Pin=L8-1
+Added Pin To Net: NetName=NetL1_2 Pin=L8-2
+Added Member To Class: ClassName=PCB_trainning Member=Component L1 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L2 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L3 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L4 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L5 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L6 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L7 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L8 led
+Added Room: Name=PCB_trainning

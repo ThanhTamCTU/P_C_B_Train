@@ -1,0 +1,9 @@
+Added Component: Designator=(8 led 7 doan)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=Net_4 Pin=-4
+Added Pin To Net: NetName=Net_5 Pin=-5
+Added Member To Class: ClassName=PCB_trainning Member=Component  module 8 LED HC595
+Added Room: Name=PCB_trainning

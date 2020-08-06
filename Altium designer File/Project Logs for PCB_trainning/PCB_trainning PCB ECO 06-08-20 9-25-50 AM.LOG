@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=led  NewDesignator=led
+Added Component: Designator=Matrix button(matrix btt)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetMatrix button_1 Pin=Matrix button-1
+Added Pin To Net: NetName=NetMatrix button_2 Pin=Matrix button-2
+Added Pin To Net: NetName=NetMatrix button_3 Pin=Matrix button-3
+Added Pin To Net: NetName=NetMatrix button_4 Pin=Matrix button-4
+Added Pin To Net: NetName=NetMatrix button_5 Pin=Matrix button-5
+Added Pin To Net: NetName=NetMatrix button_6 Pin=Matrix button-6
+Added Pin To Net: NetName=NetMatrix button_7 Pin=Matrix button-7
+Added Pin To Net: NetName=NetMatrix button_8 Pin=Matrix button-8
+Change Net Name : Old Net Name=Netled _1 New Net Name=Netled_1
+Change Net Name : Old Net Name=Netled _2 New Net Name=Netled_2
+Change Net Name : Old Net Name=Netled _3 New Net Name=Netled_3
+Change Net Name : Old Net Name=Netled _4 New Net Name=Netled_4
+Change Net Name : Old Net Name=Netled _5 New Net Name=Netled_5
+Change Net Name : Old Net Name=Netled _6 New Net Name=Netled_6
+Change Net Name : Old Net Name=Netled _7 New Net Name=Netled_7
+Change Net Name : Old Net Name=Netled _8 New Net Name=Netled_8
+Added Member To Class: ClassName=PCB_trainning Member=Component led header 9_male
+Added Member To Class: ClassName=PCB_trainning Member=Component Matrix button Matrix button 4x4
+Added Room: Name=PCB_trainning

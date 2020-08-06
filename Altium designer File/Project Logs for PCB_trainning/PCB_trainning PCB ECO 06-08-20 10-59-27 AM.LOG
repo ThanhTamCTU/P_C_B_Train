@@ -1,0 +1,6 @@
+Added Component: Designator=Out5v(header2-male)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetConverter_4 Pin=Out5v-1
+Added Pin To Net: NetName=NetConverter_3 Pin=Out5v-2
+Added Member To Class: ClassName=PCB_trainning Member=Component Out5v Header 2
+Added Room: Name=PCB_trainning

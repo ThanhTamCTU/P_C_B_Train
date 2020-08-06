@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetPinrheostat_3 Pin=rheostat-2
+Removed Pin From Net: NetName=NetPinrheostat_2 Pin=rheostat-3
+Added Pin To Net: NetName=NetPinrheostat_2 Pin=rheostat-2
+Added Pin To Net: NetName=NetPinrheostat_3 Pin=rheostat-3

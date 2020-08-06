@@ -1,0 +1,79 @@
+Removed Member From Class: ClassName=PCB_trainning Member=D1
+Removed Member From Class: ClassName=PCB_trainning Member=D2
+Removed Member From Class: ClassName=PCB_trainning Member=D3
+Removed Member From Class: ClassName=PCB_trainning Member=D4
+Removed Member From Class: ClassName=PCB_trainning Member=D5
+Removed Member From Class: ClassName=PCB_trainning Member=D6
+Removed Member From Class: ClassName=PCB_trainning Member=D7
+Removed Member From Class: ClassName=PCB_trainning Member=D8
+Change Component Designator: OldDesignator=L1 NewDesignator=L298
+Added Component: Designator=L1(led 5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(led 5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(led 5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L4(led 5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L5(led 5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L6(led 5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L7(led 5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L8(led 5mm)
+Add component. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetL298_1
+Change Net Name : Old Net Name=NetL1_2 New Net Name=NetL298_2
+Change Net Name : Old Net Name=NetL1_3 New Net Name=NetL298_3
+Change Net Name : Old Net Name=NetL1_4 New Net Name=NetL298_4
+Change Net Name : Old Net Name=NetL1_5 New Net Name=NetL298_5
+Change Net Name : Old Net Name=NetL1_6 New Net Name=NetL298_6
+Change Net Name : Old Net Name=NetL1_7 New Net Name=NetL298_7
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R1-2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=L2-2
+Added Pin To Net: NetName=NetL1_2 Pin=L3-2
+Added Pin To Net: NetName=NetL1_2 Pin=L4-2
+Added Pin To Net: NetName=NetL1_2 Pin=L5-2
+Added Pin To Net: NetName=NetL1_2 Pin=L6-2
+Added Pin To Net: NetName=NetL1_2 Pin=L7-2
+Added Pin To Net: NetName=NetL1_2 Pin=L8-2
+Added Pin To Net: NetName=NetL1_2 Pin=led-9
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R2-2
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=R3-2
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_1 Pin=R4-2
+Added Net: Name=NetL4_1
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=R5-2
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=NetL6_1 Pin=R6-2
+Added Net: Name=NetL6_1
+Added Pin To Net: NetName=NetL7_1 Pin=L7-1
+Added Pin To Net: NetName=NetL7_1 Pin=R7-2
+Added Net: Name=NetL7_1
+Added Pin To Net: NetName=NetL8_1 Pin=L8-1
+Added Pin To Net: NetName=NetL8_1 Pin=R8-2
+Added Net: Name=NetL8_1
+Added Pin To Net: NetName=NetL298_8 Pin=L298N-8
+Added Net: Name=NetL298_8
+Added Pin To Net: NetName=NetL298_9 Pin=L298N-9
+Added Net: Name=NetL298_9
+Added Member To Class: ClassName=PCB_trainning Member=Component L2 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L3 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L4 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L5 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L6 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L7 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L8 led
+Added Member To Class: ClassName=PCB_trainning Member=Component L298 Module L298N
+Added Room: Name=PCB_trainning

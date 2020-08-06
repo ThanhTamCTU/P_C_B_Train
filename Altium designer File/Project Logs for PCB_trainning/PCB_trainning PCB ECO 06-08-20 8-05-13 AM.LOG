@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D8-2
+Change Component Footprint: Designator=D1 Old Footprint=LED-1 New Footprint=led 5mm
+Change Component Footprint: Designator=D2 Old Footprint=LED-1 New Footprint=led 5mm
+Change Component Footprint: Designator=D3 Old Footprint=LED-1 New Footprint=led 5mm
+Change Component Footprint: Designator=D4 Old Footprint=LED-1 New Footprint=led 5mm
+Change Component Footprint: Designator=D5 Old Footprint=LED-1 New Footprint=led 5mm
+Change Component Footprint: Designator=D6 Old Footprint=LED-1 New Footprint=led 5mm
+Change Component Footprint: Designator=D7 Old Footprint=LED-1 New Footprint=led 5mm
+Change Component Footprint: Designator=D8 Old Footprint=LED-1 New Footprint=led 5mm
+Added Component: Designator=led (header 9)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-2
+Added Pin To Net: NetName=NetD1_2 Pin=D4-2
+Added Pin To Net: NetName=NetD1_2 Pin=D5-2
+Added Pin To Net: NetName=NetD1_2 Pin=D6-2
+Added Pin To Net: NetName=NetD1_2 Pin=D7-2
+Added Pin To Net: NetName=NetD1_2 Pin=D8-2
+Added Pin To Net: NetName=NetD1_2 Pin=led -9
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=Netled _1 Pin=led -1
+Added Pin To Net: NetName=Netled _1 Pin=R1-1
+Added Net: Name=Netled _1
+Added Pin To Net: NetName=Netled _2 Pin=led -2
+Added Pin To Net: NetName=Netled _2 Pin=R2-1
+Added Net: Name=Netled _2
+Added Pin To Net: NetName=Netled _3 Pin=led -3
+Added Pin To Net: NetName=Netled _3 Pin=R3-1
+Added Net: Name=Netled _3
+Added Pin To Net: NetName=Netled _4 Pin=led -4
+Added Pin To Net: NetName=Netled _4 Pin=R4-1
+Added Net: Name=Netled _4
+Added Pin To Net: NetName=Netled _5 Pin=led -5
+Added Pin To Net: NetName=Netled _5 Pin=R5-1
+Added Net: Name=Netled _5
+Added Pin To Net: NetName=Netled _6 Pin=led -6
+Added Pin To Net: NetName=Netled _6 Pin=R6-1
+Added Net: Name=Netled _6
+Added Pin To Net: NetName=Netled _7 Pin=led -7
+Added Pin To Net: NetName=Netled _7 Pin=R7-1
+Added Net: Name=Netled _7
+Added Pin To Net: NetName=Netled _8 Pin=led -8
+Added Pin To Net: NetName=Netled _8 Pin=R8-1
+Added Net: Name=Netled _8
+Added Member To Class: ClassName=PCB_trainning Member=Component * header 6
+Added Member To Class: ClassName=PCB_trainning Member=Component 12v Header 2
+Added Member To Class: ClassName=PCB_trainning Member=Component B1 5#Button
+Added Member To Class: ClassName=PCB_trainning Member=Component B2 5#Button
+Added Member To Class: ClassName=PCB_trainning Member=Component B3 5#Button
+Added Member To Class: ClassName=PCB_trainning Member=Component B4 5#Button
+Added Member To Class: ClassName=PCB_trainning Member=Component btt-mcu bus Port 4
+Added Member To Class: ClassName=PCB_trainning Member=Component Converter LM2596
+Added Member To Class: ClassName=PCB_trainning Member=Component D1 LED1
+Added Member To Class: ClassName=PCB_trainning Member=Component D2 LED1
+Added Member To Class: ClassName=PCB_trainning Member=Component D3 LED1
+Added Member To Class: ClassName=PCB_trainning Member=Component D4 LED1
+Added Member To Class: ClassName=PCB_trainning Member=Component D5 LED1
+Added Member To Class: ClassName=PCB_trainning Member=Component D6 LED1
+Added Member To Class: ClassName=PCB_trainning Member=Component D7 LED1
+Added Member To Class: ClassName=PCB_trainning Member=Component D8 LED1
+Added Member To Class: ClassName=PCB_trainning Member=Component I2C? Module LCD I2C
+Added Member To Class: ClassName=PCB_trainning Member=Component L298N header 9_male
+Added Member To Class: ClassName=PCB_trainning Member=Component LCD? JHD16A
+Added Member To Class: ClassName=PCB_trainning Member=Component led  header 9_male
+Added Member To Class: ClassName=PCB_trainning Member=Component loc2 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc3 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc4 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc5 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc6 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc7 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc8 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc9 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc10 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component Matrix 1 Module led maxtrix
+Added Member To Class: ClassName=PCB_trainning Member=Component Matrix-Mcu bus Port 5
+Added Member To Class: ClassName=PCB_trainning Member=Component Mbtt-U port 8
+Added Member To Class: ClassName=PCB_trainning Member=Component P_LCD_U? Port 4
+Added Member To Class: ClassName=PCB_trainning Member=Component P_RTC_U Port 6
+Added Member To Class: ClassName=PCB_trainning Member=Component P_segment_U Port 5
+Added Member To Class: ClassName=PCB_trainning Member=Component pin2-7 header 6
+Added Member To Class: ClassName=PCB_trainning Member=Component pin8-13 header 6
+Added Member To Class: ClassName=PCB_trainning Member=Component PinA0-A5 header 6
+Added Member To Class: ClassName=PCB_trainning Member=Component PinVin-IOREF Header 8
+Added Member To Class: ClassName=PCB_trainning Member=Component Power supply 5#DC Jack 2.54mm
+Added Member To Class: ClassName=PCB_trainning Member=Component R1 Res
+Added Member To Class: ClassName=PCB_trainning Member=Component R2 Res
+Added Member To Class: ClassName=PCB_trainning Member=Component R3 Res
+Added Member To Class: ClassName=PCB_trainning Member=Component R4 Res
+Added Member To Class: ClassName=PCB_trainning Member=Component R5 Res
+Added Member To Class: ClassName=PCB_trainning Member=Component R6 Res
+Added Member To Class: ClassName=PCB_trainning Member=Component R7 Res
+Added Member To Class: ClassName=PCB_trainning Member=Component R8 Res
+Added Member To Class: ClassName=PCB_trainning Member=Component R? Res Tap
+Added Member To Class: ClassName=PCB_trainning Member=Component rheostat header 3
+Added Member To Class: ClassName=PCB_trainning Member=Component RL1 Module 2 relay
+Added Member To Class: ClassName=PCB_trainning Member=Component RL2 Module 2 relay
+Added Member To Class: ClassName=PCB_trainning Member=Component RL-MCU bus Port 6
+Added Member To Class: ClassName=PCB_trainning Member=Component RTC 2#RTC_DS3231
+Added Member To Class: ClassName=PCB_trainning Member=Component SDReader 2#SD_CARD_MODULE
+Added Member To Class: ClassName=PCB_trainning Member=Component Step-MCU Port 6
+Added Member To Class: ClassName=PCB_trainning Member=Component stepmotor1 Driver TB6560
+Added Member To Class: ClassName=PCB_trainning Member=Component SwitchArduino 5#Bit_Switch_2
+Added Member To Class: ClassName=PCB_trainning Member=Component U? ARDUINO UNO R3
+Added Room: Name=PCB_trainning

@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=* NewDesignator=RTC
+Change Component Designator: OldDesignator=RTC NewDesignator=SDReader
+Added Component: Designator=*(header6-male)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_1 Pin=RTC-1
+Added Pin To Net: NetName=Net*_2 Pin=RTC-2
+Added Member To Class: ClassName=PCB_trainning Member=Component * header 6
+Added Member To Class: ClassName=PCB_trainning Member=Component SDReader 2#SD_CARD_MODULE
+Added Room: Name=PCB_trainning

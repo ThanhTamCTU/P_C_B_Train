@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetL1_2 Pin=L298N-MCU bus-1
+Removed Pin From Net: NetName=NetL1_3 Pin=L298N-MCU bus-2
+Removed Pin From Net: NetName=NetL1_4 Pin=L298N-MCU bus-3
+Removed Pin From Net: NetName=NetL1_5 Pin=L298N-MCU bus-4
+Removed Pin From Net: NetName=NetL1_6 Pin=L298N-MCU bus-5
+Removed Member From Class: ClassName=PCB_trainning Member=L298N-MCU bus
+Added Component: Designator=L298N(header 9)
+Add component. Clean all parameters for all variants
+Added Component: Designator=loc2(4#Cap2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=loc3(4#Cap2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=loc4(4#Cap2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=loc5(4#Cap2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetL1_2 Pin=L298N-2
+Added Pin To Net: NetName=NetL1_3 Pin=L298N-3
+Added Pin To Net: NetName=NetL1_4 Pin=L298N-4
+Added Pin To Net: NetName=NetL1_5 Pin=L298N-5
+Added Pin To Net: NetName=NetL1_6 Pin=L298N-6
+Added Pin To Net: NetName=Net*_5 Pin=loc2-1
+Added Pin To Net: NetName=Net*_6 Pin=loc2-2
+Added Pin To Net: NetName=Net_1 Pin=loc3-1
+Added Pin To Net: NetName=Net_5 Pin=loc3-2
+Added Pin To Net: NetName=NetL1_1 Pin=L298N-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_7 Pin=L298N-7
+Added Net: Name=NetL1_7
+Added Pin To Net: NetName=NetL1_8 Pin=L298N-8
+Added Net: Name=NetL1_8
+Added Pin To Net: NetName=NetL1_9 Pin=L298N-9
+Added Net: Name=NetL1_9
+Added Pin To Net: NetName=Netloc4_1 Pin=loc4-1
+Added Pin To Net: NetName=Netloc4_1 Pin=P_RTC_U-1
+Added Pin To Net: NetName=Netloc4_1 Pin=RTC-1
+Added Net: Name=Netloc4_1
+Added Pin To Net: NetName=Netloc4_2 Pin=loc4-2
+Added Pin To Net: NetName=Netloc4_2 Pin=P_RTC_U-2
+Added Pin To Net: NetName=Netloc4_2 Pin=RTC-2
+Added Net: Name=Netloc4_2
+Added Pin To Net: NetName=Netloc5_1 Pin=loc5-1
+Added Pin To Net: NetName=Netloc5_1 Pin=Matrix 1-2
+Added Pin To Net: NetName=Netloc5_1 Pin=Matrix 1-2
+Added Pin To Net: NetName=Netloc5_1 Pin=Matrix-Mcu bus-2
+Added Net: Name=Netloc5_1
+Added Pin To Net: NetName=Netloc5_2 Pin=loc5-2
+Added Pin To Net: NetName=Netloc5_2 Pin=Matrix 1-1
+Added Pin To Net: NetName=Netloc5_2 Pin=Matrix 1-1
+Added Pin To Net: NetName=Netloc5_2 Pin=Matrix-Mcu bus-1
+Added Net: Name=Netloc5_2
+Added Member To Class: ClassName=PCB_trainning Member=Component L298N header 9_male
+Added Member To Class: ClassName=PCB_trainning Member=Component loc2 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc3 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc4 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc5 4#Cap2
+Added Room: Name=PCB_trainning

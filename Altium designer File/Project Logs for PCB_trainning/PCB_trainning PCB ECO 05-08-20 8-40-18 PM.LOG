@@ -1,0 +1,537 @@
+Added Component: Designator=*(2#RTC_DS3231)
+Add component. Clean all parameters for all variants
+Added Component: Designator=12v(Header 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B1(5#Button)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B2(5#Button)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B3(5#Button)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B4(5#Button)
+Add component. Clean all parameters for all variants
+Added Component: Designator=btt-mcu bus(Header 4-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Converter(LM2596)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=I2C?(module I2C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L298N-MCU bus(header 5- male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LCD?(LCD-I2C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Led-Mcu(Header 8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Matrix 1(8*8 LED MATRIX)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Matrix-Mcu bus(header 5- male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Mbtt-U(Header8-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P_DS3231_U(header 5- male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P_LCD_U?(Header 4-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P_RTC_U(header 5- male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P_segment_U(header 5- male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=pin2-7(header6-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=pin8-13(header6-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PinA0-A5(header6-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PinVin-IOREF(Header8-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Power supply(5#DC Jack 2.54mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(Rheostat)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Variable Resistor, Thru-Hole; 3 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "VR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Set Position"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sim Note"; Value = "Enter the Resistance value and the set point into parameter fields."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=rheostat(Header3-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RL1(Module 2RL1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RL2(Module 2RL1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RL-MCU bus(header6-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RTC(2#SD_READER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Step-MCU(header6-male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=stepmotor1(Driver step motor TP6560)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SwitchArduino(5#Bit_Switch_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(ARDUINO UNO R3 ORG)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=B1-3
+Added Pin To Net: NetName=GND Pin=B1-4
+Added Pin To Net: NetName=GND Pin=B2-3
+Added Pin To Net: NetName=GND Pin=B2-4
+Added Pin To Net: NetName=GND Pin=B3-3
+Added Pin To Net: NetName=GND Pin=B3-4
+Added Pin To Net: NetName=GND Pin=B4-3
+Added Pin To Net: NetName=GND Pin=B4-4
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net12v_1 Pin=12v-1
+Added Pin To Net: NetName=Net12v_1 Pin=Converter-2
+Added Pin To Net: NetName=Net12v_1 Pin=Power supply-1
+Added Pin To Net: NetName=Net12v_1 Pin=Power supply-2
+Added Net: Name=Net12v_1
+Added Pin To Net: NetName=Net12v_2 Pin=12v-2
+Added Pin To Net: NetName=Net12v_2 Pin=Converter-1
+Added Pin To Net: NetName=Net12v_2 Pin=Power supply-3
+Added Net: Name=Net12v_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=P_DS3231_U-1
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=P_DS3231_U-2
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=P_DS3231_U-3
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=P_DS3231_U-4
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net_1 Pin=P_segment_U-5
+Added Net: Name=Net_1
+Added Pin To Net: NetName=Net_2 Pin=P_segment_U-4
+Added Net: Name=Net_2
+Added Pin To Net: NetName=Net_3 Pin=P_segment_U-3
+Added Net: Name=Net_3
+Added Pin To Net: NetName=Net_4 Pin=P_segment_U-2
+Added Net: Name=Net_4
+Added Pin To Net: NetName=Net_5 Pin=P_segment_U-1
+Added Net: Name=Net_5
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-2
+Added Pin To Net: NetName=NetB1_1 Pin=btt-mcu bus-1
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_1 Pin=B2-2
+Added Pin To Net: NetName=NetB2_1 Pin=btt-mcu bus-2
+Added Net: Name=NetB2_1
+Added Pin To Net: NetName=NetB3_1 Pin=B3-1
+Added Pin To Net: NetName=NetB3_1 Pin=B3-2
+Added Pin To Net: NetName=NetB3_1 Pin=btt-mcu bus-3
+Added Net: Name=NetB3_1
+Added Pin To Net: NetName=NetB4_1 Pin=B4-1
+Added Pin To Net: NetName=NetB4_1 Pin=B4-2
+Added Pin To Net: NetName=NetB4_1 Pin=btt-mcu bus-4
+Added Net: Name=NetB4_1
+Added Pin To Net: NetName=NetConverter_3 Pin=Converter-3
+Added Pin To Net: NetName=NetConverter_3 Pin=SwitchArduino-1
+Added Net: Name=NetConverter_3
+Added Pin To Net: NetName=NetConverter_4 Pin=Converter-4
+Added Pin To Net: NetName=NetConverter_4 Pin=SwitchArduino-2
+Added Net: Name=NetConverter_4
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R2-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R3-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R4-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R5-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R6-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R7-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R8-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetI2C?_1 Pin=I2C?-1
+Added Pin To Net: NetName=NetI2C?_1 Pin=P_LCD_U?-4
+Added Net: Name=NetI2C?_1
+Added Pin To Net: NetName=NetI2C?_2 Pin=I2C?-2
+Added Pin To Net: NetName=NetI2C?_2 Pin=P_LCD_U?-3
+Added Net: Name=NetI2C?_2
+Added Pin To Net: NetName=NetI2C?_3 Pin=I2C?-3
+Added Pin To Net: NetName=NetI2C?_3 Pin=P_LCD_U?-2
+Added Net: Name=NetI2C?_3
+Added Pin To Net: NetName=NetI2C?_4 Pin=I2C?-4
+Added Pin To Net: NetName=NetI2C?_4 Pin=P_LCD_U?-1
+Added Net: Name=NetI2C?_4
+Added Pin To Net: NetName=NetI2C?_5 Pin=I2C?-5
+Added Pin To Net: NetName=NetI2C?_5 Pin=LCD?-1
+Added Net: Name=NetI2C?_5
+Added Pin To Net: NetName=NetI2C?_6 Pin=I2C?-6
+Added Pin To Net: NetName=NetI2C?_6 Pin=LCD?-2
+Added Net: Name=NetI2C?_6
+Added Pin To Net: NetName=NetI2C?_7 Pin=I2C?-7
+Added Pin To Net: NetName=NetI2C?_7 Pin=LCD?-3
+Added Net: Name=NetI2C?_7
+Added Pin To Net: NetName=NetI2C?_8 Pin=I2C?-8
+Added Pin To Net: NetName=NetI2C?_8 Pin=LCD?-4
+Added Net: Name=NetI2C?_8
+Added Pin To Net: NetName=NetI2C?_9 Pin=I2C?-9
+Added Pin To Net: NetName=NetI2C?_9 Pin=LCD?-5
+Added Net: Name=NetI2C?_9
+Added Pin To Net: NetName=NetI2C?_10 Pin=I2C?-10
+Added Pin To Net: NetName=NetI2C?_10 Pin=LCD?-6
+Added Net: Name=NetI2C?_10
+Added Pin To Net: NetName=NetI2C?_11 Pin=I2C?-11
+Added Pin To Net: NetName=NetI2C?_11 Pin=LCD?-7
+Added Net: Name=NetI2C?_11
+Added Pin To Net: NetName=NetI2C?_12 Pin=I2C?-12
+Added Pin To Net: NetName=NetI2C?_12 Pin=LCD?-8
+Added Net: Name=NetI2C?_12
+Added Pin To Net: NetName=NetI2C?_13 Pin=I2C?-13
+Added Pin To Net: NetName=NetI2C?_13 Pin=LCD?-9
+Added Net: Name=NetI2C?_13
+Added Pin To Net: NetName=NetI2C?_14 Pin=I2C?-14
+Added Pin To Net: NetName=NetI2C?_14 Pin=LCD?-10
+Added Net: Name=NetI2C?_14
+Added Pin To Net: NetName=NetI2C?_15 Pin=I2C?-15
+Added Pin To Net: NetName=NetI2C?_15 Pin=LCD?-11
+Added Net: Name=NetI2C?_15
+Added Pin To Net: NetName=NetI2C?_16 Pin=I2C?-16
+Added Pin To Net: NetName=NetI2C?_16 Pin=LCD?-12
+Added Net: Name=NetI2C?_16
+Added Pin To Net: NetName=NetI2C?_17 Pin=I2C?-17
+Added Pin To Net: NetName=NetI2C?_17 Pin=LCD?-13
+Added Net: Name=NetI2C?_17
+Added Pin To Net: NetName=NetI2C?_18 Pin=I2C?-18
+Added Pin To Net: NetName=NetI2C?_18 Pin=LCD?-14
+Added Net: Name=NetI2C?_18
+Added Pin To Net: NetName=NetI2C?_19 Pin=I2C?-19
+Added Pin To Net: NetName=NetI2C?_19 Pin=LCD?-15
+Added Net: Name=NetI2C?_19
+Added Pin To Net: NetName=NetI2C?_20 Pin=I2C?-20
+Added Pin To Net: NetName=NetI2C?_20 Pin=LCD?-16
+Added Net: Name=NetI2C?_20
+Added Pin To Net: NetName=NetL1_2 Pin=L298N-MCU bus-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL1_3 Pin=L298N-MCU bus-2
+Added Net: Name=NetL1_3
+Added Pin To Net: NetName=NetL1_4 Pin=L298N-MCU bus-3
+Added Net: Name=NetL1_4
+Added Pin To Net: NetName=NetL1_5 Pin=L298N-MCU bus-4
+Added Net: Name=NetL1_5
+Added Pin To Net: NetName=NetL1_6 Pin=L298N-MCU bus-5
+Added Net: Name=NetL1_6
+Added Pin To Net: NetName=NetLed-Mcu_1 Pin=Led-Mcu-1
+Added Pin To Net: NetName=NetLed-Mcu_1 Pin=R1-1
+Added Net: Name=NetLed-Mcu_1
+Added Pin To Net: NetName=NetLed-Mcu_2 Pin=Led-Mcu-2
+Added Pin To Net: NetName=NetLed-Mcu_2 Pin=R2-1
+Added Net: Name=NetLed-Mcu_2
+Added Pin To Net: NetName=NetLed-Mcu_3 Pin=Led-Mcu-3
+Added Pin To Net: NetName=NetLed-Mcu_3 Pin=R3-1
+Added Net: Name=NetLed-Mcu_3
+Added Pin To Net: NetName=NetLed-Mcu_4 Pin=Led-Mcu-4
+Added Pin To Net: NetName=NetLed-Mcu_4 Pin=R4-1
+Added Net: Name=NetLed-Mcu_4
+Added Pin To Net: NetName=NetLed-Mcu_5 Pin=Led-Mcu-5
+Added Pin To Net: NetName=NetLed-Mcu_5 Pin=R5-1
+Added Net: Name=NetLed-Mcu_5
+Added Pin To Net: NetName=NetLed-Mcu_6 Pin=Led-Mcu-6
+Added Pin To Net: NetName=NetLed-Mcu_6 Pin=R6-1
+Added Net: Name=NetLed-Mcu_6
+Added Pin To Net: NetName=NetLed-Mcu_7 Pin=Led-Mcu-7
+Added Pin To Net: NetName=NetLed-Mcu_7 Pin=R7-1
+Added Net: Name=NetLed-Mcu_7
+Added Pin To Net: NetName=NetLed-Mcu_8 Pin=Led-Mcu-8
+Added Pin To Net: NetName=NetLed-Mcu_8 Pin=R8-1
+Added Net: Name=NetLed-Mcu_8
+Added Pin To Net: NetName=NetMatrix 1_1 Pin=Matrix 1-1
+Added Pin To Net: NetName=NetMatrix 1_1 Pin=Matrix 1-1
+Added Pin To Net: NetName=NetMatrix 1_1 Pin=Matrix-Mcu bus-1
+Added Net: Name=NetMatrix 1_1
+Added Pin To Net: NetName=NetMatrix 1_2 Pin=Matrix 1-2
+Added Pin To Net: NetName=NetMatrix 1_2 Pin=Matrix 1-2
+Added Pin To Net: NetName=NetMatrix 1_2 Pin=Matrix-Mcu bus-2
+Added Net: Name=NetMatrix 1_2
+Added Pin To Net: NetName=NetMatrix 1_3 Pin=Matrix 1-3
+Added Pin To Net: NetName=NetMatrix 1_3 Pin=Matrix 1-3
+Added Pin To Net: NetName=NetMatrix 1_3 Pin=Matrix-Mcu bus-3
+Added Net: Name=NetMatrix 1_3
+Added Pin To Net: NetName=NetMatrix 1_4 Pin=Matrix 1-4
+Added Pin To Net: NetName=NetMatrix 1_4 Pin=Matrix 1-4
+Added Pin To Net: NetName=NetMatrix 1_4 Pin=Matrix-Mcu bus-4
+Added Net: Name=NetMatrix 1_4
+Added Pin To Net: NetName=NetMatrix 1_5 Pin=Matrix 1-5
+Added Pin To Net: NetName=NetMatrix 1_5 Pin=Matrix 1-5
+Added Pin To Net: NetName=NetMatrix 1_5 Pin=Matrix-Mcu bus-5
+Added Net: Name=NetMatrix 1_5
+Added Pin To Net: NetName=NetMatrix 1_6 Pin=Matrix 1-6
+Added Net: Name=NetMatrix 1_6
+Added Pin To Net: NetName=NetMatrix 1_7 Pin=Matrix 1-7
+Added Net: Name=NetMatrix 1_7
+Added Pin To Net: NetName=NetMatrix 1_8 Pin=Matrix 1-8
+Added Net: Name=NetMatrix 1_8
+Added Pin To Net: NetName=NetMatrix 1_9 Pin=Matrix 1-9
+Added Net: Name=NetMatrix 1_9
+Added Pin To Net: NetName=NetMatrix 1_10 Pin=Matrix 1-10
+Added Net: Name=NetMatrix 1_10
+Added Pin To Net: NetName=NetMatrix button_1 Pin=Mbtt-U-1
+Added Net: Name=NetMatrix button_1
+Added Pin To Net: NetName=NetMatrix button_2 Pin=Mbtt-U-2
+Added Net: Name=NetMatrix button_2
+Added Pin To Net: NetName=NetMatrix button_3 Pin=Mbtt-U-3
+Added Net: Name=NetMatrix button_3
+Added Pin To Net: NetName=NetMatrix button_4 Pin=Mbtt-U-4
+Added Net: Name=NetMatrix button_4
+Added Pin To Net: NetName=NetMatrix button_5 Pin=Mbtt-U-5
+Added Net: Name=NetMatrix button_5
+Added Pin To Net: NetName=NetMatrix button_6 Pin=Mbtt-U-6
+Added Net: Name=NetMatrix button_6
+Added Pin To Net: NetName=NetMatrix button_7 Pin=Mbtt-U-7
+Added Net: Name=NetMatrix button_7
+Added Pin To Net: NetName=NetMatrix button_8 Pin=Mbtt-U-8
+Added Net: Name=NetMatrix button_8
+Added Pin To Net: NetName=NetP_RTC_U_1 Pin=P_RTC_U-1
+Added Pin To Net: NetName=NetP_RTC_U_1 Pin=RTC-1
+Added Net: Name=NetP_RTC_U_1
+Added Pin To Net: NetName=NetP_RTC_U_2 Pin=P_RTC_U-2
+Added Pin To Net: NetName=NetP_RTC_U_2 Pin=RTC-2
+Added Net: Name=NetP_RTC_U_2
+Added Pin To Net: NetName=NetP_RTC_U_3 Pin=P_RTC_U-3
+Added Pin To Net: NetName=NetP_RTC_U_3 Pin=RTC-3
+Added Net: Name=NetP_RTC_U_3
+Added Pin To Net: NetName=NetP_RTC_U_4 Pin=P_RTC_U-4
+Added Pin To Net: NetName=NetP_RTC_U_4 Pin=RTC-4
+Added Net: Name=NetP_RTC_U_4
+Added Pin To Net: NetName=NetP_RTC_U_5 Pin=P_RTC_U-5
+Added Pin To Net: NetName=NetP_RTC_U_5 Pin=RTC-5
+Added Net: Name=NetP_RTC_U_5
+Added Pin To Net: NetName=NetP_RTC_U_6 Pin=RTC-6
+Added Net: Name=NetP_RTC_U_6
+Added Pin To Net: NetName=Netpin2-7_1 Pin=pin2-7-1
+Added Pin To Net: NetName=Netpin2-7_1 Pin=U?-2
+Added Net: Name=Netpin2-7_1
+Added Pin To Net: NetName=Netpin2-7_2 Pin=pin2-7-2
+Added Pin To Net: NetName=Netpin2-7_2 Pin=U?-3
+Added Net: Name=Netpin2-7_2
+Added Pin To Net: NetName=Netpin2-7_3 Pin=pin2-7-3
+Added Pin To Net: NetName=Netpin2-7_3 Pin=U?-4
+Added Net: Name=Netpin2-7_3
+Added Pin To Net: NetName=Netpin2-7_4 Pin=pin2-7-4
+Added Pin To Net: NetName=Netpin2-7_4 Pin=U?-5
+Added Net: Name=Netpin2-7_4
+Added Pin To Net: NetName=Netpin2-7_5 Pin=pin2-7-5
+Added Pin To Net: NetName=Netpin2-7_5 Pin=U?-6
+Added Net: Name=Netpin2-7_5
+Added Pin To Net: NetName=Netpin2-7_6 Pin=pin2-7-6
+Added Pin To Net: NetName=Netpin2-7_6 Pin=U?-7
+Added Net: Name=Netpin2-7_6
+Added Pin To Net: NetName=Netpin8-13_1 Pin=pin8-13-1
+Added Pin To Net: NetName=Netpin8-13_1 Pin=U?-8
+Added Net: Name=Netpin8-13_1
+Added Pin To Net: NetName=Netpin8-13_2 Pin=pin8-13-2
+Added Pin To Net: NetName=Netpin8-13_2 Pin=U?-9
+Added Net: Name=Netpin8-13_2
+Added Pin To Net: NetName=Netpin8-13_3 Pin=pin8-13-3
+Added Pin To Net: NetName=Netpin8-13_3 Pin=U?-10
+Added Net: Name=Netpin8-13_3
+Added Pin To Net: NetName=Netpin8-13_4 Pin=pin8-13-4
+Added Pin To Net: NetName=Netpin8-13_4 Pin=U?-11
+Added Net: Name=Netpin8-13_4
+Added Pin To Net: NetName=Netpin8-13_5 Pin=pin8-13-5
+Added Pin To Net: NetName=Netpin8-13_5 Pin=U?-12
+Added Net: Name=Netpin8-13_5
+Added Pin To Net: NetName=Netpin8-13_6 Pin=pin8-13-6
+Added Pin To Net: NetName=Netpin8-13_6 Pin=U?-13
+Added Net: Name=Netpin8-13_6
+Added Pin To Net: NetName=NetPinA0-A5_1 Pin=PinA0-A5-1
+Added Pin To Net: NetName=NetPinA0-A5_1 Pin=U?-A0
+Added Net: Name=NetPinA0-A5_1
+Added Pin To Net: NetName=NetPinA0-A5_2 Pin=PinA0-A5-2
+Added Pin To Net: NetName=NetPinA0-A5_2 Pin=U?-A1
+Added Net: Name=NetPinA0-A5_2
+Added Pin To Net: NetName=NetPinA0-A5_3 Pin=PinA0-A5-3
+Added Pin To Net: NetName=NetPinA0-A5_3 Pin=U?-A2
+Added Net: Name=NetPinA0-A5_3
+Added Pin To Net: NetName=NetPinA0-A5_4 Pin=PinA0-A5-4
+Added Pin To Net: NetName=NetPinA0-A5_4 Pin=U?-A3
+Added Net: Name=NetPinA0-A5_4
+Added Pin To Net: NetName=NetPinA0-A5_5 Pin=PinA0-A5-5
+Added Pin To Net: NetName=NetPinA0-A5_5 Pin=U?-A4
+Added Net: Name=NetPinA0-A5_5
+Added Pin To Net: NetName=NetPinA0-A5_6 Pin=PinA0-A5-6
+Added Pin To Net: NetName=NetPinA0-A5_6 Pin=U?-A5
+Added Net: Name=NetPinA0-A5_6
+Added Pin To Net: NetName=NetPinVin-IOREF_1 Pin=PinVin-IOREF-1
+Added Pin To Net: NetName=NetPinVin-IOREF_1 Pin=U?-25
+Added Net: Name=NetPinVin-IOREF_1
+Added Pin To Net: NetName=NetPinVin-IOREF_2 Pin=PinVin-IOREF-2
+Added Pin To Net: NetName=NetPinVin-IOREF_2 Pin=U?-24
+Added Net: Name=NetPinVin-IOREF_2
+Added Pin To Net: NetName=NetPinVin-IOREF_3 Pin=PinVin-IOREF-3
+Added Pin To Net: NetName=NetPinVin-IOREF_3 Pin=U?-23
+Added Net: Name=NetPinVin-IOREF_3
+Added Pin To Net: NetName=NetPinVin-IOREF_4 Pin=PinVin-IOREF-4
+Added Pin To Net: NetName=NetPinVin-IOREF_4 Pin=U?-22
+Added Net: Name=NetPinVin-IOREF_4
+Added Pin To Net: NetName=NetPinVin-IOREF_5 Pin=PinVin-IOREF-5
+Added Pin To Net: NetName=NetPinVin-IOREF_5 Pin=U?-21
+Added Net: Name=NetPinVin-IOREF_5
+Added Pin To Net: NetName=NetPinVin-IOREF_6 Pin=PinVin-IOREF-6
+Added Pin To Net: NetName=NetPinVin-IOREF_6 Pin=U?-20
+Added Net: Name=NetPinVin-IOREF_6
+Added Pin To Net: NetName=NetPinVin-IOREF_7 Pin=PinVin-IOREF-7
+Added Pin To Net: NetName=NetPinVin-IOREF_7 Pin=SwitchArduino-3
+Added Pin To Net: NetName=NetPinVin-IOREF_7 Pin=U?-19
+Added Net: Name=NetPinVin-IOREF_7
+Added Pin To Net: NetName=NetPinVin-IOREF_8 Pin=PinVin-IOREF-8
+Added Pin To Net: NetName=NetPinVin-IOREF_8 Pin=SwitchArduino-4
+Added Pin To Net: NetName=NetPinVin-IOREF_8 Pin=U?-18
+Added Net: Name=NetPinVin-IOREF_8
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=rheostat-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=rheostat-3
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetR?_3 Pin=R?-3
+Added Pin To Net: NetName=NetR?_3 Pin=rheostat-2
+Added Net: Name=NetR?_3
+Added Pin To Net: NetName=NetRL1_1 Pin=RL1-1
+Added Pin To Net: NetName=NetRL1_1 Pin=RL2-1
+Added Pin To Net: NetName=NetRL1_1 Pin=RL-MCU bus-1
+Added Net: Name=NetRL1_1
+Added Pin To Net: NetName=NetRL1_2 Pin=RL1-2
+Added Pin To Net: NetName=NetRL1_2 Pin=RL-MCU bus-2
+Added Net: Name=NetRL1_2
+Added Pin To Net: NetName=NetRL1_3 Pin=RL1-3
+Added Pin To Net: NetName=NetRL1_3 Pin=RL-MCU bus-3
+Added Net: Name=NetRL1_3
+Added Pin To Net: NetName=NetRL1_4 Pin=RL1-4
+Added Pin To Net: NetName=NetRL1_4 Pin=RL2-4
+Added Pin To Net: NetName=NetRL1_4 Pin=RL-MCU bus-6
+Added Net: Name=NetRL1_4
+Added Pin To Net: NetName=NetRL2_2 Pin=RL2-2
+Added Pin To Net: NetName=NetRL2_2 Pin=RL-MCU bus-4
+Added Net: Name=NetRL2_2
+Added Pin To Net: NetName=NetRL2_3 Pin=RL2-3
+Added Pin To Net: NetName=NetRL2_3 Pin=RL-MCU bus-5
+Added Net: Name=NetRL2_3
+Added Pin To Net: NetName=NetStep-MCU_1 Pin=Step-MCU-1
+Added Pin To Net: NetName=NetStep-MCU_1 Pin=stepmotor1-1
+Added Net: Name=NetStep-MCU_1
+Added Pin To Net: NetName=NetStep-MCU_2 Pin=Step-MCU-2
+Added Pin To Net: NetName=NetStep-MCU_2 Pin=stepmotor1-2
+Added Net: Name=NetStep-MCU_2
+Added Pin To Net: NetName=NetStep-MCU_3 Pin=Step-MCU-3
+Added Pin To Net: NetName=NetStep-MCU_3 Pin=stepmotor1-3
+Added Net: Name=NetStep-MCU_3
+Added Pin To Net: NetName=NetStep-MCU_4 Pin=Step-MCU-4
+Added Pin To Net: NetName=NetStep-MCU_4 Pin=stepmotor1-4
+Added Net: Name=NetStep-MCU_4
+Added Pin To Net: NetName=NetStep-MCU_5 Pin=Step-MCU-5
+Added Pin To Net: NetName=NetStep-MCU_5 Pin=stepmotor1-5
+Added Net: Name=NetStep-MCU_5
+Added Pin To Net: NetName=NetStep-MCU_6 Pin=Step-MCU-6
+Added Pin To Net: NetName=NetStep-MCU_6 Pin=stepmotor1-6
+Added Net: Name=NetStep-MCU_6
+Added Class: Name=PCB_trainning
+Added Room: Name=PCB_trainning

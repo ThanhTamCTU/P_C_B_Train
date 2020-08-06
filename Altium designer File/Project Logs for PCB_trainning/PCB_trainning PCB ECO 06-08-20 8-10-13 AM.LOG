@@ -1,0 +1,14 @@
+Added Component: Designator=Matrix 2(8*8 LED MATRIX)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetMatrix 1_6 Pin=Matrix 2-1
+Added Pin To Net: NetName=NetMatrix 1_6 Pin=Matrix 2-1
+Added Pin To Net: NetName=NetMatrix 1_7 Pin=Matrix 2-2
+Added Pin To Net: NetName=NetMatrix 1_7 Pin=Matrix 2-2
+Added Pin To Net: NetName=NetMatrix 1_8 Pin=Matrix 2-3
+Added Pin To Net: NetName=NetMatrix 1_8 Pin=Matrix 2-3
+Added Pin To Net: NetName=NetMatrix 1_9 Pin=Matrix 2-4
+Added Pin To Net: NetName=NetMatrix 1_9 Pin=Matrix 2-4
+Added Pin To Net: NetName=NetMatrix 1_10 Pin=Matrix 2-5
+Added Pin To Net: NetName=NetMatrix 1_10 Pin=Matrix 2-5
+Added Member To Class: ClassName=PCB_trainning Member=Component Matrix 2 Module led maxtrix
+Added Room: Name=PCB_trainning

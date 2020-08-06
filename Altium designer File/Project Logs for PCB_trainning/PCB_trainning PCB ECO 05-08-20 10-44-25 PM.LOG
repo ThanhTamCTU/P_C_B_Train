@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=Net*_3 Pin=P_DS3231_U-1
+Removed Pin From Net: NetName=Net*_4 Pin=P_DS3231_U-2
+Removed Pin From Net: NetName=Net*_5 Pin=P_DS3231_U-3
+Removed Pin From Net: NetName=Net*_6 Pin=P_DS3231_U-4
+Removed Member From Class: ClassName=PCB_trainning Member=P_DS3231_U
+Change Component Designator: OldDesignator=* NewDesignator=rtc
+Added Component: Designator=*(header6-male)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=rtc-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=rtc-2
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=PCB_trainning Member=Component rtc 2#RTC_DS3231
+Added Room: Name=PCB_trainning
