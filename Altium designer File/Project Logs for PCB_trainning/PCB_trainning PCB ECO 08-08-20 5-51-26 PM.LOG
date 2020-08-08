@@ -1,0 +1,20 @@
+Added Component: Designator=pinLCD(header 16)
+Added Pin To Net: NetName=NetI2C?_5 Pin=pinLCD-1
+Added Pin To Net: NetName=NetI2C?_6 Pin=pinLCD-2
+Added Pin To Net: NetName=NetI2C?_7 Pin=pinLCD-3
+Added Pin To Net: NetName=NetI2C?_8 Pin=pinLCD-4
+Added Pin To Net: NetName=NetI2C?_9 Pin=pinLCD-5
+Added Pin To Net: NetName=NetI2C?_10 Pin=pinLCD-6
+Added Pin To Net: NetName=NetI2C?_11 Pin=pinLCD-7
+Added Pin To Net: NetName=NetI2C?_12 Pin=pinLCD-8
+Added Pin To Net: NetName=NetI2C?_13 Pin=pinLCD-9
+Added Pin To Net: NetName=NetI2C?_14 Pin=pinLCD-10
+Added Pin To Net: NetName=NetI2C?_15 Pin=pinLCD-11
+Added Pin To Net: NetName=NetI2C?_16 Pin=pinLCD-12
+Added Pin To Net: NetName=NetI2C?_17 Pin=pinLCD-13
+Added Pin To Net: NetName=NetI2C?_18 Pin=pinLCD-14
+Added Pin To Net: NetName=NetI2C?_19 Pin=pinLCD-15
+Added Pin To Net: NetName=NetI2C?_20 Pin=pinLCD-16
+Added Member To Class: ClassName=PCB_trainning Member=Component L298 Module L298N
+Added Member To Class: ClassName=PCB_trainning Member=Component pinLCD header 16
+Added Room: Name=PCB_trainning

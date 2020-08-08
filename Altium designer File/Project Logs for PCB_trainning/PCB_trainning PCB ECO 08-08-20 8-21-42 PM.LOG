@@ -1,0 +1,14 @@
+Added Component: Designator=connect matrix(header2-male)
+Added Component: Designator=loc7(4#Cap2)
+Added Pin To Net: NetName=Netloc6_1 Pin=loc7-1
+Added Pin To Net: NetName=Netloc6_2 Pin=loc7-2
+Added Pin To Net: NetName=Netconnect matrix_1 Pin=connect matrix-1
+Added Pin To Net: NetName=Netconnect matrix_1 Pin=Matrix 1-6
+Added Net: Name=Netconnect matrix_1
+Added Pin To Net: NetName=Netconnect matrix_2 Pin=connect matrix-2
+Added Pin To Net: NetName=Netconnect matrix_2 Pin=Matrix 2-1
+Added Pin To Net: NetName=Netconnect matrix_2 Pin=Matrix 2-1
+Added Net: Name=Netconnect matrix_2
+Added Member To Class: ClassName=PCB_trainning Member=Component connect matrix Header 2
+Added Member To Class: ClassName=PCB_trainning Member=Component loc7 4#Cap2
+Added Room: Name=PCB_trainning

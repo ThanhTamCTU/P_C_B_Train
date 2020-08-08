@@ -1,0 +1,39 @@
+Added Component: Designator=pin-switch 8(header 9)
+Added Component: Designator=Switch 8(switch-bit8)
+Added Pin To Net: NetName=Netpin-switch 8_1 Pin=pin-switch 8-1
+Added Pin To Net: NetName=Netpin-switch 8_1 Pin=Switch 8-9
+Added Net: Name=Netpin-switch 8_1
+Added Pin To Net: NetName=Netpin-switch 8_2 Pin=pin-switch 8-2
+Added Pin To Net: NetName=Netpin-switch 8_2 Pin=Switch 8-10
+Added Net: Name=Netpin-switch 8_2
+Added Pin To Net: NetName=Netpin-switch 8_3 Pin=pin-switch 8-3
+Added Pin To Net: NetName=Netpin-switch 8_3 Pin=Switch 8-11
+Added Net: Name=Netpin-switch 8_3
+Added Pin To Net: NetName=Netpin-switch 8_4 Pin=pin-switch 8-4
+Added Pin To Net: NetName=Netpin-switch 8_4 Pin=Switch 8-12
+Added Net: Name=Netpin-switch 8_4
+Added Pin To Net: NetName=Netpin-switch 8_5 Pin=pin-switch 8-5
+Added Pin To Net: NetName=Netpin-switch 8_5 Pin=Switch 8-13
+Added Net: Name=Netpin-switch 8_5
+Added Pin To Net: NetName=Netpin-switch 8_6 Pin=pin-switch 8-6
+Added Pin To Net: NetName=Netpin-switch 8_6 Pin=Switch 8-14
+Added Net: Name=Netpin-switch 8_6
+Added Pin To Net: NetName=Netpin-switch 8_7 Pin=pin-switch 8-7
+Added Pin To Net: NetName=Netpin-switch 8_7 Pin=Switch 8-15
+Added Net: Name=Netpin-switch 8_7
+Added Pin To Net: NetName=Netpin-switch 8_8 Pin=pin-switch 8-8
+Added Pin To Net: NetName=Netpin-switch 8_8 Pin=Switch 8-16
+Added Net: Name=Netpin-switch 8_8
+Added Pin To Net: NetName=Netpin-switch 8_9 Pin=pin-switch 8-9
+Added Pin To Net: NetName=Netpin-switch 8_9 Pin=Switch 8-1
+Added Pin To Net: NetName=Netpin-switch 8_9 Pin=Switch 8-2
+Added Pin To Net: NetName=Netpin-switch 8_9 Pin=Switch 8-3
+Added Pin To Net: NetName=Netpin-switch 8_9 Pin=Switch 8-4
+Added Pin To Net: NetName=Netpin-switch 8_9 Pin=Switch 8-5
+Added Pin To Net: NetName=Netpin-switch 8_9 Pin=Switch 8-6
+Added Pin To Net: NetName=Netpin-switch 8_9 Pin=Switch 8-7
+Added Pin To Net: NetName=Netpin-switch 8_9 Pin=Switch 8-8
+Added Net: Name=Netpin-switch 8_9
+Added Member To Class: ClassName=PCB_trainning Member=Component pin-switch 8 header 9_male
+Added Member To Class: ClassName=PCB_trainning Member=Component Switch 8
+Added Room: Name=PCB_trainning

@@ -1,0 +1,5 @@
+Added Member To Class: ClassName=PCB_trainning Member=Component btt header 5
+Added Member To Class: ClassName=PCB_trainning Member=Component PinL298 header 7
+Added Member To Class: ClassName=PCB_trainning Member=Component  module 8 LED HC595
+Added Member To Class: ClassName=PCB_trainning Member=Component U? ARDUINO UNO R3
+Added Room: Name=PCB_trainning
