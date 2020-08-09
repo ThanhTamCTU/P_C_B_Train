@@ -1,0 +1,23 @@
+Added Component: Designator=loc7(4#Cap2)
+Added Component: Designator=Reset button(5#Button)
+Added Component: Designator=Reset res(Res)
+Added Pin To Net: NetName=Netloc6_1 Pin=loc7-1
+Added Pin To Net: NetName=Netloc6_2 Pin=loc7-2
+Added Pin To Net: NetName=NetPinVin-IOREF_3 Pin=Reset button-1
+Added Pin To Net: NetName=NetPinVin-IOREF_3 Pin=Reset button-2
+Added Pin To Net: NetName=NetPinVin-IOREF_6 Pin=Reset res-1
+Added Pin To Net: NetName=NetReset button_3 Pin=Reset button-3
+Added Pin To Net: NetName=NetReset button_3 Pin=Reset button-4
+Added Pin To Net: NetName=NetReset button_3 Pin=Reset res-2
+Added Net: Name=NetReset button_3
+Added Member To Class: ClassName=PCB_trainning Member=Component connect matrix Header 2
+Added Member To Class: ClassName=PCB_trainning Member=Component L298 Module L298N
+Added Member To Class: ClassName=PCB_trainning Member=Component loc7 4#Cap2
+Added Member To Class: ClassName=PCB_trainning Member=Component pin-switch 8 header 9_male
+Added Member To Class: ClassName=PCB_trainning Member=Component pinLCD header 16
+Added Member To Class: ClassName=PCB_trainning Member=Component Reset button 5#Button
+Added Member To Class: ClassName=PCB_trainning Member=Component Reset res Res
+Added Member To Class: ClassName=PCB_trainning Member=Component Switch 8
+Added Member To Class: ClassName=PCB_trainning Member=Component  module 8 LED HC595
+Added Member To Class: ClassName=PCB_trainning Member=Component U? ARDUINO UNO R3
+Added Room: Name=PCB_trainning
